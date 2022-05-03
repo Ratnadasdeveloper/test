@@ -1,0 +1,23 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: darksalmon;
+  }
+  #search_input{
+    width: 70%;
+    border-radius: 17px;
+    height: 30px;
+    margin: auto;
+    background-color:darksalmon;
+  }
+  button{
+  
+    margin-top: 20px;
+  }
+  h3{
+    cursor: pointer;
+  }
+  img{
+      width: 250px;
+      height: 250px;
+  }
